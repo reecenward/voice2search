@@ -8,11 +8,11 @@ import nltk
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
-hostname = "localhost"
-username = "findr"
-port_id = 5432
-pwd = "Aug3rd01"
-database = "findr"
+hostname = ""
+username = ""
+port_id = 
+pwd = ""
+database = ""
 
 # Connect to the database
 try:
